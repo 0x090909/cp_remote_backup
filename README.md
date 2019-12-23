@@ -13,5 +13,5 @@ Now let's say you manage 100 accounts and an earthquake destroyes your files, ke
 ## Solution
 
 
-Without the need to copy manually the files from the NAS to the server, this app lets you mount the remote location locally in the server, then you can restore your backup as if it was already copied in the server.
+Without the need to copy manually the files from the NAS to the server, this app lets you mount the remote location locally in the server, then you can restore your files as the backup was already present on the server.
 
