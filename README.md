@@ -17,6 +17,6 @@ Without the need to copy manually the files from the NAS to the server, this app
 
 
 ## Screenshots
-
+<img src="http://....jpg" width="200" height="200" />
 ![Main View](https://github.com/cristiangutzu/cp_remote_backup/raw/master/screenshots/photo5773991726384525904.jpg =500x)
 ![Settings view](https://github.com/cristiangutzu/cp_remote_backup/raw/master/screenshots/photo5773991726384525907.jpg =500x)
